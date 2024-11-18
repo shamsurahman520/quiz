@@ -1,0 +1,60 @@
+{
+    "questions": [
+        {
+          "id": 1,
+          "statement": "What is the capital of Pakistan?",
+          "options": [
+            { "id": 1, "name": "Lahore", "image": "images/lahore.jpg" },
+            { "id": 2, "name": "Islamabad", "image": "images/islamabad.jpg" },
+            { "id": 3, "name": "Karachi", "image": "images/karachi.jpg" },
+            { "id": 4, "name": "Peshawar", "image": "images/peshawar.jpg" }
+          ],
+          "answer": 2
+        },
+        {
+          "id": 2,
+          "statement": "Who is the founder of Pakistan?",
+          "options": [
+            {"id": 1, "name": "Liaquat Ali Khan", "image": "images/liaquat.jpg" },
+            {"id": 2, "name": "Muhammad Ali Jinnah", "image": "images/jinnah.jpg" },
+            {"id": 3, "name":  "Allama Iqbal", "image": "images/iqbal.jpg" },
+            { "id":4, "name": "Sir Syed Ahmad Khan", "image": "images/sirsyed.jpg" }
+          ],
+          "answer": 2
+        },
+        {
+          "id": 3,
+          "statement": "What is the largest country in the world?",
+          "options": [
+            {"id":1, "name": "Pakistan", "image": "images/pakistan.jpg" },
+            {"id":2, "name": "China", "image": "images/china.jpg" },
+            {"id":3, "name": "Russia", "image": "images/russia.jpg" },
+            {"id":4, "name": "America", "image": "images/america.jpg" }
+          ],
+          "answer": 3
+        },
+        {
+          "id": 4,
+          "statement": "What is the smallest country in the world?",
+          "options": [
+            {"id":1, "name": "Monaco", "image": "images/monaco.jpg" },
+            {"id":2, "name": "Maldives", "image": "images/maldives.jpg" },
+            {"id":3, "name": "Vatican City", "image": "images/vatican.jpg" },
+            {"id":4, "name": "San Marino", "image": "images/sanmarino.jpg" }
+          ],
+          "answer": 3
+        },
+        {
+          "id": 5,
+          "statement": "What is the most widely spoken language in the world?",
+          "options": [
+            {"id":1, "name": "Urdu", "image": "images/urdu.jpg" },
+            {"id":2, "name": "Spanish", "image": "images/spanish.jpg" },
+            {"id":3, "name": "Arabic", "image": "images/arabic.jpg" },
+            {"id":4, "name": "English", "image": "images/english.jpg" }
+          ],
+          "answer": 4
+        }
+      ]
+    }
+  
