@@ -39,7 +39,7 @@ const QuizApp = () => {
   };
 
   // Progress calculation
-  const progressValue = ((activeQuestion + 1) / questions.length) * 100;
+  const progressValue = ((activeQuestion + 0) / questions.length) * 100;
 
   return (
     <>
